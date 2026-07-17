@@ -117,3 +117,5 @@ This project shows that a U-Net-based deep learning model can approximate large-
 ## Keywords
 
 Traffic Noise Estimation, Road Traffic Noise, Environmental Noise, Deep Learning, U-Net, CNN, Sentinel-2, DEM, Remote Sensing, GIS, Geospatial Analysis, Raster Processing, Noise Mapping, Terrain Influence, Barrier Simulation, Shadow Effect, Python, PyTorch
+## Author
+Srijan Mazumder and Sunita Joshi
